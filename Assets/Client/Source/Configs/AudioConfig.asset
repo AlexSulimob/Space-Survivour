@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28254997af6a6b043aaa14ffc97ab961, type: 3}
+  m_Name: AudioConfig
+  m_EditorClassIdentifier: 
+  laserShootSound: {fileID: 8300000, guid: 6ad795dcb3cf03241befdacdcb8d1393, type: 3}
+  cannonBalSound: {fileID: 8300000, guid: f910fa4c7f10a1948b46ae981481e20f, type: 3}
+  ThunderSound: {fileID: 8300000, guid: 550179794e73b894c82e72c5cff2b2a9, type: 3}
+  expSound: {fileID: 8300000, guid: 264a50397c6f8984b98fe1f2ab080b2b, type: 3}
+  healthUpSound: {fileID: 8300000, guid: 3667cc8bab2d54848911471be707a4b8, type: 3}
+  explosionSound: {fileID: 8300000, guid: 8b6a71181291d6146ab2b11b9fe5c290, type: 3}

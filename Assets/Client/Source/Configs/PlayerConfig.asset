@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1495c82a12020b46a0b360c51a7036d, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: 
+  speed: 3
+  initShootingRate: 1
+  projectileSpeed: 5
+  initUfoSpeed: 200
+  thunderCd: 8
+  cannonBallCd: 7
+  levelUpProjectileSpeed: 4
+  levelUpShootingRate: 0.1
+  levelUpSpeed: 1
+  levelUpMaxHealth: 1
+  levelUpthunderSpawnCount: 1
+  levelUpthunderCd: 1.7
+  levelUpCannonBallSpawnCount: 2
+  levelUpUfoSpeed: 400
+  playerStartMaxHealth: 5
+  LevelingSettings: 3200000064000000c80000005e01000020030000b0040000dc0500003a07000098080000280a00001c0c0000100e000068100000881300000c170000f41a0000401f00002823000010270000ec2c0000f4330000983a0000384a0000a86100003075000070940000ffc99a3b
+  expForSmallEnemy: 5
+  expForMiddleEnemy: 10
+  expForBigEnemy: 15
+  expSpeed: 2
+  HealthSpeed: 3
